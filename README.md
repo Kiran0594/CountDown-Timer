@@ -28,9 +28,4 @@ It is built with **HTML, CSS, and JavaScript** and designed with a **responsive 
 - **CSS3** – Styling and responsive design (Flexbox, Grid, Media Queries).  
 - **JavaScript (ES6)** – Timer logic, event handling, and alerts.  
 
----
 
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/countdown-timer.git
